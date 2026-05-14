@@ -38,7 +38,7 @@ export default function DJoaoSantosLanding() {
       city: 'Guarapuava - PR',
     },
   ]
- const scrollPresskit = (direction) => {
+ const scrollPresskit = (direction: 'left' | 'right') => {
     const container = document.getElementById('presskit-scroll')
 
     if (!container) return

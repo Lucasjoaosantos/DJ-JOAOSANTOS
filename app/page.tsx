@@ -120,7 +120,7 @@ export default function DJoaoSantosLanding() {
             <div className="absolute inset-0 bg-white/10 blur-3xl rounded-full" />
 
             <img
-              src="https://i.imgur.com/1TxVv70.jpeg"
+              src="https://imgur.com/VF5BQca"
               alt="DJ"
               className="relative rounded-3xl border border-zinc-800 shadow-2xl"
             />

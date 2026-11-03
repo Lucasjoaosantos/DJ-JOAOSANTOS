@@ -382,7 +382,7 @@ export default function DJoaoSantosLanding() {
     <div className="flex justify-center mt-14">
 
       <a
-        href="https://drive.google.com/drive/u/1/folders/1-L3EFMHBtATocvwVWfQXMExXvT7iNPAk"
+        href="https://drive.google.com/drive/folders/1WjHqAxjCR96L-bkw6f6pq9pbdE8Kw0yR?usp=drive_link"
         target="_blank"
         className="
           inline-flex

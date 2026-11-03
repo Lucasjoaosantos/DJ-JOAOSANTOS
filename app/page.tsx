@@ -326,9 +326,9 @@ export default function DJoaoSantosLanding() {
 
         {[
           'https://i.imgur.com/jfdpcRT.png',
-          'https://i.imgur.com/4JPVdWv.png',
-          'https://i.imgur.com/IXYkQ91.png',
-          'https://i.imgur.com/hv2oGW4.png',
+          'https://imgur.com/VF5BQca',
+          'https://imgur.com/1yccNWy',
+          'https://imgur.com/ApHmRZ0',
           'https://i.imgur.com/kHM2mQ7.png',
           'https://i.imgur.com/PFXS3iw.png',
         ].map((img, index) => (
